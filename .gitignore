@@ -1,0 +1,29 @@
+# Simulink / MATLAB generated
+slprj/
+*_ert_rtw/
+*_grt_rtw/
+codegen/
+*.slxc
+*.slx.autosave
+*.autosave
+*.asv
+*.m~
+*.mex*
+*.mat
+*.log
+
+# Android build output
+*.apk
+*.aab
+.gradle/
+build/
+local.properties
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Keep (tracked): SecurityApp.slx, *.m, alert.wav, README.md
