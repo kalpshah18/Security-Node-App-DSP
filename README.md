@@ -9,7 +9,7 @@ Simulink Support Package for Android Devices.
 - **Phone B, Monitoring Console:** plays an audible alert, shows GPS and breach time, and remotely triggers the siren and ARM/DISARM on Phone A.
 - **Interchangeable:** the same app runs on both phones. A `role` slider selects Node (0) or Monitor (1).
 
-Demo video: <INSERT UNLISTED YOUTUBE LINK>
+Demo video: https://youtu.be/q4VKf8RstJU
 
 ## How it works
 
