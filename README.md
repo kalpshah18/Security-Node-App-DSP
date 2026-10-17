@@ -1,6 +1,6 @@
 # Smartphone Intrusion Detection System (Simulink, Android)
 
-Digital Signal Processing course project. Kalp Shah (24110152), IIT Gandhinagar.
+Digital Signal Processing Course Assignment 1. Kalp Shah (24110152), IIT Gandhinagar.
 
 Two Android phones form a security system built entirely in Simulink with the
 Simulink Support Package for Android Devices.
